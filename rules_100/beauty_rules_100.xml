@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rules>
+<config>
+	<configItem key="key_free_pic_num" value="50"/>   
+    <configItem key="order_resign_old_ticket_info_index" value="0,1,2,3,4,5,6,7,8,9,10,11"/>
+    <configItem key="order_resign_old_ticket_info_length" value="12"/>
+    <configItem key="train_finder_core_version" value="1"/>
+    <configItem key="train_finder_core_download_url" value="https://dl.dropboxusercontent.com/s/u3d3yxdccg8li1h/ika_core_144.jar"/>
+
+</config>
+
+<actionList key="list_action_baidu_beauty_list">
+	<action key="action_baidu_beauty_list_get_img_list" isShowDialog="N" resultType="string" encoding="UTF-8" isPost="N">
+        <paramList>
+            <param name="new_main" value="http://image.baidu.com"></param>
+            <param name="uri" value="/i"></param>
+            <param name="tn" value="resultjsonavgirl"></param>
+            <param name="ie" value="utf-8"></param>
+            <param name="word" value="美女 美女身材 爆乳"></param>
+            <param name="pn" value="480"></param>
+            <param name="rn" value="120"></param>
+            <param name="z" value="0"></param>
+            <param name="width" value="0"></param>
+            <param name="height" value="0"></param>
+        </paramList>
+        <parserList>
+            <parser storageKey="res_beauty_list_beauty_img_url_test">
+            </parser>
+            <parser storageKey="res_beauty_list_beauty_img_url_array">
+                <rule type="string_to_json"></rule>
+				<rule type="json_to_json_array" value="imgs"></rule>
+				<rule type="json_array_to_array_string" value="hoverURL"></rule>
+            </parser>
+        </parserList>
+        <result>
+            <resultKey>action_baidu_beauty_list_get_img_list</resultKey>
+        </result>
+    </action>
+</actionList>
+
+<!-- 
+<actionList key="">
+	<action key=""  resultType="elements" encoding="UTF-8">
+		<paramList>
+			<param name="uri" value=""></param>
+			<param name="" value=""></param>
+			<param key="" name=""></param>
+		</paramList>
+		<parserList>
+			<parser storageKey="">
+				<rule type="" order="" value=""></rule>
+			</parser>
+		</parserList>
+	</action>
+</actionList>
+-->
+
+
+
+</rules>
