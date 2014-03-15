@@ -2,7 +2,7 @@
 <picGroupList>
 	<groupItem name="今日亚洲" groupUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_1.xml" imgUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_banner_img/pic_banner_1.png" isUserPic="N"></groupItem>
 	<groupItem name="雅思搜狐" groupUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_2.xml" imgUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_banner_img/pic_banner_2.png" isUserPic="N"></groupItem>
-    <groupItem name="图书杂志" groupUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_3.xml" imgUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_banner_img/pic_banner_3.png" isUserPic="N"></groupItem>
-    <groupItem name="世界舰船" groupUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_4.xml" imgUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_banner_img/pic_banner_4.png" isUserPic="N"></groupItem>
-    <groupItem name="现代航空" groupUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_5.xml" imgUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_banner_img/pic_banner_5.png" isUserPic="Y"></groupItem>
+    <groupItem name="图书杂志" groupUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_3.xml" imgUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_banner_img/pic_banner_2.png" isUserPic="N"></groupItem>
+    <groupItem name="世界舰船" groupUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_4.xml" imgUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_banner_img/pic_banner_2.png" isUserPic="N"></groupItem>
+    <groupItem name="现代航空" groupUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_5.xml" imgUrl="https://raw.github.com/BeautyHole/beauty/master/pic_group_banner_img/pic_banner_2.png" isUserPic="Y"></groupItem>
 </picGroupList>

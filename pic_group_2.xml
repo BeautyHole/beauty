@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <imgUrlList>
-	<imgUrl>https://raw.github.com/BeautyHole/beauty/master/pic_group_1/splash_img_20130822_a.jpg</imgUrl>
-	<imgUrl>https://raw.github.com/BeautyHole/beauty/master/pic_group_1/splash_img_20130822_b.jpg</imgUrl>
-	<imgUrl>https://raw.github.com/BeautyHole/beauty/master/pic_group_1/splash_img_20130822_c.jpg</imgUrl>
-	<imgUrl>https://raw.github.com/BeautyHole/beauty/master/pic_group_1/splash_img_20130822_d.jpg</imgUrl>
-	<imgUrl>https://raw.github.com/BeautyHole/beauty/master/pic_group_1/splash_img_20130822_e.jpg</imgUrl>
-	<imgUrl>https://raw.github.com/BeautyHole/beauty/master/pic_group_1/splash_img_20130822_f.jpg</imgUrl>
+<httpsUrlHost>https://raw.github.com/BeautyHole/beauty/master/pic_group_1/</httpsUrlHost>
+<imgUrl><![CDATA[splash_img_20130822_a.jpg
+splash_img_20130822_b.jpg
+splash_img_20130822_c.jpg
+splash_img_20130822_d.jpg
+splash_img_20130822_e.jpg
+splash_img_20130822_f.jpg]]></imgUrl>
 </imgUrlList>
