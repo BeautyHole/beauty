@@ -1,0 +1,12 @@
+g3_00000.jpg
+g3_00001.jpg
+g3_00002.jpg
+g3_00003.jpg
+g3_00004.jpg
+g3_00005.jpg
+g3_00006.jpg
+g3_00007.jpg
+g3_00008.jpg
+g3_00009.jpg
+g3_00010.jpg
+temp.txt
