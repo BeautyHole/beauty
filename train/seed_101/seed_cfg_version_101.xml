@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data code="0">
   <version>8</version>
-  <ruleXmlUrl>https://raw.githubusercontent.com/BeautyHole/beauty/master/train/seed_101/seed_cfg_t_101.xml</ruleXmlUrl>
+  <ruleXmlUrl>https://raw.githubusercontent.com/BeautyHole/beauty/master/train/seed_101/seed_cfg_101.xml</ruleXmlUrl>
   <!--<ruleXmlUrl>https://dl.dropboxusercontent.com/s/uvuqjqvvpzhqdeb/train_rules_152.xml</ruleXmlUrl>-->
 </data>
